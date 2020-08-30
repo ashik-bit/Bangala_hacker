@@ -20,7 +20,7 @@
 * `apt install git -y`
 * `https://github.com/ashik-bit/Bangala_hacker.git `
 * `cd Bangala_hacker`
-* ` chmod +x Bangala.py`
+* ` chmod +x Bangla.py`
 
 *** ### > NOTE :- ` Don't your personal Fb '
 **** ` For Education purpose only `
